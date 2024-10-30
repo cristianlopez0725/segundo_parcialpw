@@ -222,7 +222,7 @@ header {
 }
 .projects .project-imagen {
     position: relative;
-    width: auto; /* La imagen y el contenedor pueden adaptarse al contenido */
+    width: auto; 
     max-width: 250px;
     height: auto;
     border-radius: 10px;
@@ -231,7 +231,7 @@ header {
 }
 
 .projects .project-imagen img {
-    width: 100%; /* Mantiene el tamaño dentro del contenedor */
+    width: 100%; 
     height: auto;
     object-fit: cover;
     border-radius: 10px;
